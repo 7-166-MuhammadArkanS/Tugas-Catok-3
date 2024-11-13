@@ -1,0 +1,85 @@
+body{
+    background-color: white;
+}
+
+.navbar{
+    text-align: center;
+    border-radius: 20px;
+    background-color: black;
+    padding: 10px;
+    padding-left: 0.5px;
+    
+}
+
+.nav{
+    color: white;
+    padding: 10px 50px;
+    background-color: black;
+    text-align: center;
+    display: inline-flex;
+}
+
+.nav:hover{
+    cursor: pointer;
+    transition-duration: 0.5s;
+    background-color: bisque;
+}
+
+.img{
+    
+    padding: 20px;
+}
+
+.cont{
+    box-shadow: 0 10px 10px black;
+    background-color: bisque;
+    margin: 30px;
+}
+
+.biodata{
+    margin: 10px;
+}
+
+.bio{
+    font-size: 20px;
+}
+
+.pengalaman{
+    margin: 10px;
+}
+
+.td{
+    list-style-type: none;
+    padding: 5px;
+}
+
+.kontak{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.pendidikan{
+    margin: 10px;
+}
+
+.tabel{
+    margin: 10px;
+}
+
+.head2{
+    border-bottom: 5px solid aquamarine;
+    font-size: 30px;
+    margin: 5px;
+}
+
+.ling{
+    color: black;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.ling:hover{
+    color: blue;
+    transition-duration: 1s;
+}
